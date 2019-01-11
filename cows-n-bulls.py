@@ -41,7 +41,7 @@ class CowsNBulls:
                 print(f"Yippie you've won")
 
 
-if __name__=="__main__":
+if __name__ == "__main__":
     game = CowsNBulls()
     game.printCowsnbulls()
     game.loopGame()
