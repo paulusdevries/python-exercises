@@ -5,11 +5,11 @@ class CowsNBulls:
 
     def __init__(self):
         random.seed(a=random.randint(0, 10000))
-        base = [0, 0, 0, 0]
-        self.cownsbulls = [random.randint(0,9) for num in base]
+        self.cownsbulls = [random.randint(0,9) for num in range(4)]
         self.userinput = []
         self.cows = 0
         self.bulls = 0
+        self.rounds = 0
         print(f"--- Mastermind guessing game ---")
 
 
@@ -39,6 +39,8 @@ class CowsNBulls:
             print(f"You have {self.cows} cows and {self.bulls} bulls")
             if self.cows == 4:
                 print(f"Yippie you've won")
+            self.rounds += 1
+        return self.rounds
 
 
 if __name__ == "__main__":
