@@ -191,7 +191,7 @@ def main():
                 computerTurn(True, board)
                 drawBoard(board)
                 counterc += 1
-            if playerTurn(input("Input your choice i.e: 1a or 1b: "), board) and not boardDone(board):
+            if not boardDone(board) and playerTurn(input("Input your choice i.e: 1a or 1b: "), board):
                 drawBoard(board)
                 counterp += 1
             else:
