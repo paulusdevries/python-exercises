@@ -4,7 +4,12 @@ r_html = ""
 
 
 def writenythtml():
-    url = "https://www.nytimes.com/"
+    url_input = input("Please enter the url e.g.: [https://www.nytimes.com/]")
+    if url_input == "":
+        url = "https://www.nytimes.com/"
+    else:
+        url = url_input
+
     r = requests.get(url)
     #r_html = r.text
     r_html = r.text.encode("utf-8")
