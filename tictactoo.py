@@ -1,4 +1,4 @@
-import random, copy
+import random, copy, os
 
 board = {
     "1a": " ",
@@ -19,6 +19,13 @@ def isEmpty(turn):
         return False
     else:
         return True
+
+
+def clearscreen():
+    if os.name == 'nt':
+        _ = os.system('cls')
+    else:
+        _ = os.system('clear')
 
 
 def playerTurn(turn, board):
@@ -175,7 +182,9 @@ def main():
     if coinflip == 0:
         print("Player may start...")
         while not isThreeinaRow(board) and not boardDone(board):
+
             if playerTurn(input("Input your choice i.e: 1a or 1b: "), board):
+                clearscreen()
                 drawBoard(board)
                 computerTurn(True, board)
                 drawBoard(board)
@@ -193,6 +202,7 @@ def main():
                 counterc += 1
             if not boardDone(board) and playerTurn(input("Input your choice i.e: 1a or 1b: "), board):
                 drawBoard(board)
+                clearscreen()
                 counterp += 1
             else:
                 continue
