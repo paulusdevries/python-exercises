@@ -1,0 +1,71 @@
+TB-1947; SPIKE WEAS core in DataMiner; TB Sprint 2019-51 / 2020-01; TB-963; DVBT_Vernieuwing; Gerrit van de Haar; 8.0 
+TB-1946; Tabellen werken DVB-T2; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Beheer; Vincent Dorland; 4.0 
+TB-1945; Service template WEAS voor R&S 7000; TB Sprint 2019-51 / 2020-01; TB-963; DVBT_Vernieuwing; Jacques Smit; 16.0 
+TB-1944; Plan voor testen en uitrol Cassandra; TB Sprint 2019-51 / 2020-01; TB-963; DVBT_Vernieuwing; Jacques Smit; 2.0 
+TB-1943; Voorstel voor (vervanging apparatuur) huismeldingen; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Beheer; Jacques Smit; 8.0 
+TB-1942; Overleg met Divitel / Enensys over issues en wensen; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Jacques Smit; 4.0 
+TB-1935; Hulp bij ombouwen beheer van de resterende Tx-sites en RPO’n; TB Sprint 2019-51 / 2020-01; TB-70; !!!NIET AAN EEN VERSIE GEKOPPELD!!!; Jacques Smit; 6.0 
+TB-1934; Nieuw headend Asd - compleet design tbv offertes ATEME, Irdeto, Enensys; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Vincent Dorland; 8.0 
+TB-1933; Veldmeting DVB-T2 plan maken en afstemmen met Radioplanning; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Vincent Dorland; 4.0 
+TB-1931; Correcties Commvault clients na upgrade; TB Sprint 2019-51 / 2020-01; TB-86; ICT_Beheer; Bernard Grijpstra; 4.0 
+TB-1930; Check DVB-T stations op SNMP en NTP configuraties na WEAS omzetting; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Bernard Grijpstra; 4.0 
+TB-1929; Back-up configuratie diverse firewalls en access systemen – maandelijks ; TB Sprint 2019-51 / 2020-01; TB-86; ICT_Beheer; Bernard Grijpstra; 1.0 
+TB-1928; Check functionaliteit NWO Storage en Back-up servers – maandelijks (rond de 1e); TB Sprint 2019-51 / 2020-01; TB-86; ICT_Beheer; Bernard Grijpstra; 1.0 
+TB-1926; Demo DataMiner aan Just Hut in Den Haag (?) - datum nog bepalen; TB Sprint 2019-51 / 2020-01; TB-963; DVBT_Vernieuwing; Gerrit van de Haar; 8.0 
+TB-1924; Voorbereiding en bespreking met VWT over zender- en containervervanging 070120; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Vincent Dorland; 2.0 
+TB-1917; Digitenne maand rapportage (rond de 28e); TB Sprint 2019-51 / 2020-01; TB-264; DVBT_Beheer; Gerrit van de Haar; 1.0 
+TB-1916; Beschikbaarheidsrapportage VWT (NB 1e week vd maand); TB Sprint 2019-51 / 2020-01; TB-264; DVBT_Beheer; Gerrit van de Haar; 1.0 
+TB-1915; Beschikbaarheidsrapportage DVBT tbv NPO, WS en ML b2b MS 01122019; TB Sprint 2019-51 / 2020-01; TB-264; DVBT_Beheer; Gerrit van de Haar; 2.0 
+TB-1914; Beschikbaarheidsrapportage DAB+ tbv NPO (NB 1e week vd maand); TB Sprint 2019-51 / 2020-01; TB-264; DAB_Beheer; Gerrit van de Haar; 2.0 
+TB-1912; Vrijvraag overleg – wekelijks #1; TB Sprint 2019-51 / 2020-01; TB-86; ICT_Beheer; Jacques Smit; 1.0 
+TB-1911; PVM/CMDB vulnerability oplossing; TB Sprint 2019-51 / 2020-01; TB-1388; ICT_Beheer; Bernard Grijpstra; 8.0 
+TB-1910; PVM/CMDB kwaliteits verbetering; TB Sprint 2019-51 / 2020-01; TB-1388; ICT_Beheer; Bernard Grijpstra; 8.0 
+TB-1909; SPIKE PVM/CMDB tweewekelijks overleg / maandelijkse rapportage; TB Sprint 2019-51 / 2020-01; TB-1388; ICT_Beheer; Bernard Grijpstra; 2.0 
+TB-1908; SPIKE Analyse verschillen Irdeto - leverstraat (Sprint 2019-51); TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Gerrit van de Haar; 4.0 
+TB-1907; SPIKE Tweewekelijks overleg met Producthouse over (ontvangst) issues stb'n; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Vincent Dorland; 2.0 
+TB-1906; SPIKE wekelijks overleg met ZTE over ontvangstproblemen; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Vincent Dorland; 2.0 
+TB-1905; Irdeto KMS maandrapportage per 010120; TB Sprint 2019-51 / 2020-01; TB-264; DVBT_Beheer; Gerrit van de Haar; 2.0 
+TB-1898; Servicetemplate R&S 7000 zender; TB Sprint 2019-51 / 2020-01; TB-963; DVBT_Vernieuwing; Jacques Smit; 24.0 
+TB-1897; Uitrol service template naar 22 Plisch zendersites; TB Sprint 2019-51 / 2020-01; TB-963; DVBT_Vernieuwing; Gerrit van de Haar; 36.0 
+TB-1885; VPN opzetten en testen met Ventum; TB Sprint 2019-49 + TB Sprint 2019-51 / 2020-01 + TB Sprint 2020-05; TB-3; DVBT_Vernieuwing; Bernard Grijpstra; 4.0 
+TB-1874; Weekrapportage DVB-T2 aantallen tbv T&DO; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Gerrit van de Haar; 4.0 
+TB-1759; Multiplexer traning deel II bezinking; TB Sprint 2019-43 + TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Bernard Grijpstra; 8.0 
+TB-1716; SPIKE - Automatisering AVMC / Dataminer monitoring DVBT2 - overleguren; TB Sprint 2019-51 / 2020-01; TB-963; DVBT_Vernieuwing; Gerrit van de Haar; 4.0 
+TB-1657; XS provider - VPN koppeling met Irdeto productie maken - planning nog afstemmen; TB Sprint 2019-35 + TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Bernard Grijpstra; 4.0 
+
+Totaal;;;;;; 199
+TB-1947; SPIKE WEAS core in DataMiner; TB Sprint 2019-51 / 2020-01; TB-963; DVBT_Vernieuwing; Gerrit van de Haar; 8.0 
+TB-1946; Tabellen werken DVB-T2; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Beheer; Vincent Dorland; 4.0 
+TB-1945; Service template WEAS voor R&S 7000; TB Sprint 2019-51 / 2020-01; TB-963; DVBT_Vernieuwing; Jacques Smit; 16.0 
+TB-1944; Plan voor testen en uitrol Cassandra; TB Sprint 2019-51 / 2020-01; TB-963; DVBT_Vernieuwing; Jacques Smit; 2.0 
+TB-1943; Voorstel voor (vervanging apparatuur) huismeldingen; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Beheer; Jacques Smit; 8.0 
+TB-1942; Overleg met Divitel / Enensys over issues en wensen; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Jacques Smit; 4.0 
+TB-1935; Hulp bij ombouwen beheer van de resterende Tx-sites en RPO’n; TB Sprint 2019-51 / 2020-01; TB-70; !!!NIET AAN EEN VERSIE GEKOPPELD!!!; Jacques Smit; 6.0 
+TB-1934; Nieuw headend Asd - compleet design tbv offertes ATEME, Irdeto, Enensys; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Vincent Dorland; 8.0 
+TB-1933; Veldmeting DVB-T2 plan maken en afstemmen met Radioplanning; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Vincent Dorland; 4.0 
+TB-1931; Correcties Commvault clients na upgrade; TB Sprint 2019-51 / 2020-01; TB-86; ICT_Beheer; Bernard Grijpstra; 4.0 
+TB-1930; Check DVB-T stations op SNMP en NTP configuraties na WEAS omzetting; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Bernard Grijpstra; 4.0 
+TB-1929; Back-up configuratie diverse firewalls en access systemen – maandelijks ; TB Sprint 2019-51 / 2020-01; TB-86; ICT_Beheer; Bernard Grijpstra; 1.0 
+TB-1928; Check functionaliteit NWO Storage en Back-up servers – maandelijks (rond de 1e); TB Sprint 2019-51 / 2020-01; TB-86; ICT_Beheer; Bernard Grijpstra; 1.0 
+TB-1926; Demo DataMiner aan Just Hut in Den Haag (?) - datum nog bepalen; TB Sprint 2019-51 / 2020-01; TB-963; DVBT_Vernieuwing; Gerrit van de Haar; 8.0 
+TB-1924; Voorbereiding en bespreking met VWT over zender- en containervervanging 070120; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Vincent Dorland; 2.0 
+TB-1917; Digitenne maand rapportage (rond de 28e); TB Sprint 2019-51 / 2020-01; TB-264; DVBT_Beheer; Gerrit van de Haar; 1.0 
+TB-1916; Beschikbaarheidsrapportage VWT (NB 1e week vd maand); TB Sprint 2019-51 / 2020-01; TB-264; DVBT_Beheer; Gerrit van de Haar; 1.0 
+TB-1915; Beschikbaarheidsrapportage DVBT tbv NPO, WS en ML b2b MS 01122019; TB Sprint 2019-51 / 2020-01; TB-264; DVBT_Beheer; Gerrit van de Haar; 2.0 
+TB-1914; Beschikbaarheidsrapportage DAB+ tbv NPO (NB 1e week vd maand); TB Sprint 2019-51 / 2020-01; TB-264; DAB_Beheer; Gerrit van de Haar; 2.0 
+TB-1912; Vrijvraag overleg – wekelijks #1; TB Sprint 2019-51 / 2020-01; TB-86; ICT_Beheer; Jacques Smit; 1.0 
+TB-1911; PVM/CMDB vulnerability oplossing; TB Sprint 2019-51 / 2020-01; TB-1388; ICT_Beheer; Bernard Grijpstra; 8.0 
+TB-1910; PVM/CMDB kwaliteits verbetering; TB Sprint 2019-51 / 2020-01; TB-1388; ICT_Beheer; Bernard Grijpstra; 8.0 
+TB-1909; SPIKE PVM/CMDB tweewekelijks overleg / maandelijkse rapportage; TB Sprint 2019-51 / 2020-01; TB-1388; ICT_Beheer; Bernard Grijpstra; 2.0 
+TB-1908; SPIKE Analyse verschillen Irdeto - leverstraat (Sprint 2019-51); TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Gerrit van de Haar; 4.0 
+TB-1907; SPIKE Tweewekelijks overleg met Producthouse over (ontvangst) issues stb'n; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Vincent Dorland; 2.0 
+TB-1906; SPIKE wekelijks overleg met ZTE over ontvangstproblemen; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Vincent Dorland; 2.0 
+TB-1905; Irdeto KMS maandrapportage per 010120; TB Sprint 2019-51 / 2020-01; TB-264; DVBT_Beheer; Gerrit van de Haar; 2.0 
+TB-1898; Servicetemplate R&S 7000 zender; TB Sprint 2019-51 / 2020-01; TB-963; DVBT_Vernieuwing; Jacques Smit; 24.0 
+TB-1897; Uitrol service template naar 22 Plisch zendersites; TB Sprint 2019-51 / 2020-01; TB-963; DVBT_Vernieuwing; Gerrit van de Haar; 36.0 
+TB-1874; Weekrapportage DVB-T2 aantallen tbv T&DO; TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Gerrit van de Haar; 4.0 
+TB-1759; Multiplexer traning deel II bezinking; TB Sprint 2019-43 + TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Bernard Grijpstra; 8.0 
+TB-1716; SPIKE - Automatisering AVMC / Dataminer monitoring DVBT2 - overleguren; TB Sprint 2019-51 / 2020-01; TB-963; DVBT_Vernieuwing; Gerrit van de Haar; 4.0 
+TB-1657; XS provider - VPN koppeling met Irdeto productie maken - planning nog afstemmen; TB Sprint 2019-35 + TB Sprint 2019-51 / 2020-01; TB-3; DVBT_Vernieuwing; Bernard Grijpstra; 4.0 
+
+Totaal;;;;;; 195
