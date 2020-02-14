@@ -30,8 +30,12 @@ saveText.saveGame(response.text)
 text = json.loads(response.text)
 sprint_id = extract_values(response.json(), 'id')
 sprint_name = extract_values(response.json(), 'name')
+sprint_start = extract_values(response.json(), 'startDate')
+sprint_end = extract_values(response.json(), 'endDate')
 # print(f"Raw json response: {text}  \n  Sprint ID's: {sprint_id} \n names: {sprint_name}")
 for _ in range(len(sprint_name)):
     if query == sprint_name[_]:
-        print(f"Sprint id = {sprint_id[_]}")
+        print(f"Sprint id = {sprint_id[_]} and sprint startdate = {_}")
+
+print(f"Sprint startdate: {sprint_start}")
 

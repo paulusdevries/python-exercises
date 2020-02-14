@@ -23,6 +23,7 @@ auth = HTTPBasicAuth("paulusdevries@kpn.com", password=password)
 saveText = SaveGame('jira_version_report')
 saveCSV = SaveGame('jira_version.csv')
 
+
 # URL de DATA en de HEADERS die aan de API-POST worden meegegeven:
 url = f"https://jira.kpn.org/rest/api/2/search"
 data = {
@@ -49,7 +50,7 @@ r = r.json()
 # Sla alle json data op: (debug)
 saveText.saveGame(str(r))
 
-# Met een moduletje van Internet gejat de story points uit de json extraheren:
+# Met een moduletje, van Internet gejat, de story points uit de json extraheren:
 uitvogelen = extract_values(r, 'customfield_10002')
 
 # Print alle resultaten
@@ -89,6 +90,7 @@ for i in issues:
         version = "!!!NIET AAN EEN VERSIE GEKOPPELD!!!"
     assignee = i["fields"]["assignee"]["displayName"]
     points = i["fields"]["customfield_10002"]
+
     saveCSV.saveGame(f"{storykey}; {summary}; {sprintname}; {epiclink}; {version}; {assignee}; {points} \n")
     print(f"{storykey}; {summary}; {sprintname}; {epiclink}; {version}; {assignee}; {points}")
 
