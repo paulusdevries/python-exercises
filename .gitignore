@@ -1,3 +1,4 @@
 *.csv
 keyfile
 shadow
+venv/

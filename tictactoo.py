@@ -1,4 +1,6 @@
-import random, copy, os
+import copy
+import os
+import random
 
 board = {
     "1a": " ",
